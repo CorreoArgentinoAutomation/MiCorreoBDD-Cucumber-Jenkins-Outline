@@ -1,0 +1,9 @@
+stepsDefinitions\NuevoEnvioIndividualSteps.class
+page\FormularioPage.class
+page\MessageHomePage.class
+framework\Hooks.class
+page\BasePage.class
+framework\DriverManager.class
+page\EnviosPage.class
+runner\TestRunner.class
+page\LoginPage.class
